@@ -1,2 +1,3 @@
-http://localhost/Sewakendaraan/index.php
-https://drive.google.com/drive/folders/15WYJxSrbhfg96CzQ4JcwdM6e3hIvcT_y?usp=sharing
+Link Web Local: http://localhost/Sewakendaraan/index.php
+Link Web yang Bisa Diakses: https://sewa-kendaraan.infinityfreeapp.com/
+Link Youtube: 
